@@ -22,8 +22,6 @@ section{
 h2{
     display:flex;
     justify-content: flex-end;
-}
-
-h2{
     border:1px solid black;
 }
+
