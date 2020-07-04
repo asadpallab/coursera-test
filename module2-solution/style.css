@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+h1{
+    text-align:center;
+}
+main{
+  display:flex; 
+  justify-content: center;
+}
+
+section{
+    border:1px solid black;
+    width: 20%;
+    margin:5%;
+    padding:10px;
+}
+
+h2{
+    display:flex;
+    justify-content: flex-end;
+    border:1px solid black;
+}
+
