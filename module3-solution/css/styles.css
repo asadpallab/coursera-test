@@ -1,0 +1,27 @@
+body{
+    height: 1000px;
+}
+h2{
+    margin-top: 20px;
+    padding:10px;
+}
+
+li{
+    border:1px solid black;
+    width: 100%;
+}
+.navbar{
+    padding:0px;
+}
+
+a.navbar-brand{
+    margin: 20px 30px;
+}
+
+button.navbar-toggler{
+    margin:10px;
+}
+
+div.container-fluid{
+    padding:0px;
+}
